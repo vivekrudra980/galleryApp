@@ -1,0 +1,17 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.image-container {
+  width: 50vw;
+  height: 60vh;
+  display: flex;
+}
+.image {
+  width: 100%;
+}
+.thumbnail-container {
+  display: flex;
+}

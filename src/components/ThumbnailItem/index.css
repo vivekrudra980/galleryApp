@@ -1,0 +1,8 @@
+.thumbnail {
+  list-style: none;
+  margin-right: 10px;
+}
+.button {
+  background-color: white;
+  cursor: pointer;
+}
